@@ -3,6 +3,7 @@ celeba
 edit_*/
 facelock/
 *.png
+!assets/*.png
 *.jpg
 *.csv
 *.out
