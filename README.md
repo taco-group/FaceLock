@@ -11,7 +11,9 @@
     </td>
   </tr>
 </table>
-Welcome to the official repository for the paper, [Edit Away and My Face Will not Stay: Personal Biometric Defense against Malicious Generative Editing](https://arxiv.org/abs/2411.16832). 
+
+Welcome to the official repository for the paper, [Edit Away and My Face Will not Stay: Personal Biometric Defense against Malicious Generative Editing](https://arxiv.org/abs/2411.16832).
+
 
 ## Abstract
 
