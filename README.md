@@ -21,7 +21,7 @@ Recent advancements in diffusion models have made generative image editing more 
 
 ## Environment
 
-We provide a [conda env file](enviroment.yml) for environment setup.
+We provide a [conda env file](environment.yml) for environment setup.
 
 ```bash
 conda env create -f environment.yml
